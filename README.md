@@ -19,6 +19,6 @@ Mes premiers projets datent de 2018 et ont été développés en C# sur Visual S
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morgane-SJK&layout=compact)](https://github.com/Morgane-SJK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morgane-SJK&layout=compact&hide=jupyter%20notebook)](https://github.com/Morgane-SJK/github-readme-stats)
 
 
