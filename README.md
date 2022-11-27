@@ -7,15 +7,15 @@
 <br>
 <br>
 
-:mortar_board: Je suis actuellement étudiante en dernière année d'école d'ingénieur en spécialité Intelligence Artificielle.
+:mortar_board: I recently graduated from a general engineering school, with a specialization in Artificial Intelligence.
 
-Mes premiers projets datent de 2018 et ont été développés en C# sur Visual Studio. Il s'agit principalement de programmation orientée objet.
+My first IT projects were developed in C# on Visual Studio, in 2018.
 
-:art: Puis j'ai appris à développer des interfaces graphiques : en Python avec une application Paint et le jeu de GO mais aussi en C#/XAML avec une interface WPF pour un outil de gestion de commandes de plat.
+:art: Then I learned to develop Graphical User Interfaces (GUI): in Python with a Paint application and the GO game, but also in C#/XAML with a WPF interface for a a food order management tool.
 
-:bulb: Enfin j'ai découvert divers domaines d'applications de l'intelligence artificielle à travers plusieurs projets à partir de 2020 : IA qui joue au puissance 4, algorithme des k plus proches voisins...
+:bulb: Finally I discovered various fields of application of Artificial Intelligence through several projects from 2020: AI that plays Connect 4 game, k-nearest neighbors algorithm...
 
-:telescope: Je m'intéresse maintenant plus particulièrement aux applications du Machine Learning et Deep Learning.
+:telescope: I am now particularly interested in the applications of Machine Learning and Deep Learning. 
 
 <br>
 
